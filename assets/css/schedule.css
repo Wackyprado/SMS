@@ -1,0 +1,18 @@
+.schedule{
+    height: auto;
+    width: 800px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.con{
+justify-content: center;
+}
+
+.th-schedule, .td-schedule{
+    padding: 10px;
+
+    border: 1px solid;
+    text-align: center;
+
+}

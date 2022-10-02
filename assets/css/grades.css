@@ -1,0 +1,35 @@
+.view-grades{
+        height: auto;
+        width: 800px;
+        justify-content: center;
+}
+
+.con{
+    justify-content: center;
+}
+
+.form-control{
+    height: 25px;
+    border-radius: 0%;
+}
+
+#btnsubmit{
+    width: 100px;
+}
+
+.grades-td,.grades-th{
+    text-align: center;
+    padding: 5px;
+}
+
+.grades-td, .grades-th, .grade-tr{
+    border: 1px solid;
+}
+
+.grades-table{
+    margin-bottom: 20px;
+}
+
+#btn_change{
+    width: 200px;
+}

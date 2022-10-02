@@ -1,0 +1,36 @@
+html,
+body{
+	height: 100%;
+/*	padding: 0 !important;
+	margin: 0 !important;*/
+}
+.row1 {
+	margin: 20px;
+}
+.row2{
+	padding: 10px;
+	/*flex: d-flex;*/
+	justify-content: center;
+}
+
+
+a {
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
+}
+
+p {
+	text-align: left;
+	font-size: 12px;
+}
+
+.p{
+	padding: 0;
+	margin: 0;
+}
+
+h6 {
+	padding: 0;
+	margin: 0;
+}

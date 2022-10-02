@@ -1,0 +1,79 @@
+html,
+
+
+.profile-h4{
+    font-weight: bold;
+}
+.profile-col{
+    padding:20px ;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.profile-row{
+    padding: 10px;
+}
+
+.con{
+   height: auto;
+   width: 800px;
+   justify-content: center;
+}
+.profile-row2{
+    justify-content: center;
+}
+
+.form-control{
+    height: 25px;
+    background-color: #EFEBEB;
+    border-color:gray;
+    border-radius: 0%;
+}
+
+.form-control:focus{
+    background-color: #EFEBEB;
+}
+
+form{
+    padding: 10px;
+}
+.table{
+    justify-content: center;
+}
+table{
+    width: 700px;
+}
+
+.req-tr{
+    text-align: center;
+
+}
+
+.req-th{
+    background-color: aquamarine;
+    border: 1px solid;
+}
+.req-table, .req-td{
+    border: 1px solid;
+    padding: 2px;
+}
+
+.form-check{
+    justify-content: center;
+}
+
+.other-informantion{
+    background-color: #EFEBEB;
+    margin: 20px;
+}
+.address{
+    background-color: #EFEBEB;
+    margin-top:20px;
+}
+
+.basic-information{
+    background-color: #EFEBEB;
+}
+/* .form-control{
+    width: 100px;
+} */

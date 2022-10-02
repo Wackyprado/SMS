@@ -1,0 +1,28 @@
+.subject_chart{
+    height: auto;
+    width: 800px;
+    justify-content: center;
+
+    margin-bottom: 20px;
+}
+.con{
+    justify-content: center;
+
+}
+.sub_tr{
+/*    border: solid 1px;*/
+    text-align: center;
+    background-color: lightblue;
+}
+.sub_th{
+    /*color: skyblue;*/
+    border: none;
+    /*border-right: solid 1px;*/
+    /*border-color: orange;*/
+
+}
+
+.sub_td{
+    border: solid 1px;
+    border-color: green;
+}

@@ -1,0 +1,22 @@
+.online_class{
+        height: auto;
+        width: 800px;
+        justify-content: center;
+}
+
+.con{
+    justify-content: center;
+}
+
+.form-control{
+    height: 25px;
+    border-radius: 0%;
+}
+
+#btnsubmit{
+    width: 100px;
+}
+
+td,th {
+    border: 1px solid black;
+}

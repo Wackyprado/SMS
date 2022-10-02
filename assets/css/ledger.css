@@ -1,0 +1,25 @@
+.ledger{
+    height: auto;
+    width: 800px;
+    justify-content: center;
+
+    margin-bottom: 20px;
+}
+.con{
+    justify-content: center;
+
+}
+
+.th-ledger, .td-ledger{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.span{
+    text-align: right;
+}
+
+.download{
+    width: 100px;
+}
